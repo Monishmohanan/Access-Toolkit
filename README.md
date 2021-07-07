@@ -10,7 +10,8 @@ and also change the screen size
 
 ### Initial Configuration
 
-![image](https://user-images.githubusercontent.com/60011463/124712010-631f3500-df1c-11eb-9f34-e121a698dc54.png)
+![image](https://user-images.githubusercontent.com/60011463/124712163-92ce3d00-df1c-11eb-859a-5438611ab07a.png)
+
 
 - The initial configuration window is opened when the tool is run for the
   first time
