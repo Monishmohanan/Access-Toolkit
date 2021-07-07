@@ -51,7 +51,7 @@ The names of the buttons in the main window may vary depending upon user's initi
 - User preview button for visualizing the new window size
 - Save the new window size using the save button
 
-### FAQ - Related to Build
+### Tips for build
 
 1. What to do if tcl and tk errors shows up?<br>
    Make sure that you have required tck and tk folders in the path
