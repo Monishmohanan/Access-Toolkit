@@ -53,13 +53,13 @@ The names of the buttons in the main window may vary depending upon user's initi
 
 ### FAQ - Related to Build
 
-1. What to do if tcl and tk errors shows up?
+1. What to do if tcl and tk errors shows up?<br>
    Make sure that you have required tck and tk folders in the path
    specified by the error message. If not, try building the tool 
    using a different cx-freeze version
    
-2. What to do if the tool shows warning message when opened?
+2. What to do if the tool shows warning message when opened?<br>
    Reset the toolkit manually
    
-3. How to manually reset the toolkit?
+3. How to manually reset the toolkit?<br>
    Delete the accessData.db file and restart the toolkit
