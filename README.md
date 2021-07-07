@@ -27,8 +27,8 @@ and also change the screen size
   Buttons column
 - The links can be provided in the respective text boxes near the button names
 - Once the initial configuration is setup and saved, the configuration window
-  is closed and the main window pops up
-<u>Note:</u> 
+  is closed and the main window pops up<br>
+<u>Note:</u><br>
 The link boxes can also be left blank where in case the user does not
 require all thefive buttons to be mapped
 
@@ -38,7 +38,7 @@ require all thefive buttons to be mapped
 
 ![image](https://user-images.githubusercontent.com/60011463/124713192-dc6b5780-df1d-11eb-95be-e9fe7b5744e4.png)
 
-<u>Note:</u> 
+<u>Note:</u><br>
 The names of the buttons in the main window may vary depending upon user's initial config
 
 ### Settings Window
