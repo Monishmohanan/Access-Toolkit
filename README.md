@@ -53,7 +53,7 @@ The names of the buttons in the main window may vary depending upon user's initi
 
 ### Tips for build
 
-1. What to do if tcl and tk errors shows up?<br>
+1. What to do if tcl and tk errors occurs?<br>
    Make sure that you have required tck and tk folders in the path
    specified by the error message. If not, try building the tool 
    using a different cx-freeze version
